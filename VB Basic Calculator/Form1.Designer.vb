@@ -73,7 +73,7 @@ Partial Class Form1
         Me.txtResult.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.txtResult.Location = New System.Drawing.Point(17, 226)
         Me.txtResult.Name = "txtResult"
-        Me.txtResult.Size = New System.Drawing.Size(226, 29)
+        Me.txtResult.Size = New System.Drawing.Size(771, 29)
         Me.txtResult.TabIndex = 6
         '
         'btnAdd
