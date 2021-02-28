@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VB Basic Calculator", "VB Basic Calculator\VB Basic Calculator.vbproj", "{8EF013D9-2FAF-4912-9D65-CC316CA8E137}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EF013D9-2FAF-4912-9D65-CC316CA8E137}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EF013D9-2FAF-4912-9D65-CC316CA8E137}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EF013D9-2FAF-4912-9D65-CC316CA8E137}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EF013D9-2FAF-4912-9D65-CC316CA8E137}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABED3211-C4FD-4E27-ADE1-7D091D4C37A5}
+	EndGlobalSection
+EndGlobal
